@@ -1,2 +1,3 @@
-# imovie
-电影网站
+由node.js + express搭建
+模板引擎jade
+前端jQuery,Bootstrap
